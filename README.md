@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinela</h1>
 
-- 🔭 I’m currently working on **Freedom game**
+- 🔭 I’m currently working on college projects.
 
 - 🌱 I’m currently learning **Python, Java**
 
