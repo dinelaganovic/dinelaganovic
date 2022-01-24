@@ -13,6 +13,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinelaganovic&show_icons=true&locale=en" alt="dinelaganovic" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinelaganovic&" alt="dinelaganovic" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinelaganovic&show_icons=true&locale=en" alt="dinelaganovic" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinelaganovic&" alt="dinelaganovic" /></p>
