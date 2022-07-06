@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinelaganovic&label=Profile%20views&color=0e75b6&style=flat" alt="dinelaganovic" /> </p>
 <h1 align="center">Hi 👋, I'm Dinela</h1>
 
-- 🌱 I’m currently learning **Python, ASP.NET**
+- 🌱 I’m currently learning ** ASP.NET**
 
 - 📫 How to reach me **⚡dinelaganovic@gmail.com**
 
