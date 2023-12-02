@@ -7,6 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=dinelaganovic" alt="dinelaganovic" /></a> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dinelaganovic&show_icons=true&locale=en" alt="dinelaganovic" /> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinelaganovic&" alt="dinelaganovic" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinelaganovic&show_icons=true&locale=en&layout=compact" alt="dinelaganovic" />
+<img style="margin-left:255px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinelaganovic&show_icons=true&locale=en&layout=compact" alt="dinelaganovic" />
 </p>
 
