@@ -8,14 +8,7 @@
 
 
 <h3 align="left">GitHub Profile Statistics:</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=dinelaganovic" alt="dinelaganovic" />
-  </a>
-</p>
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dinelaganovic&show_icons=true&locale=en" alt="dinelaganovic" /> 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinelaganovic&" alt="dinelaganovic" />
 </p>
 
