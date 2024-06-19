@@ -27,6 +27,6 @@
 </p>
 <h3 align="center">GitHub Profile Statistics:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinelaganovic&" alt="dinelaganovic" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinelaganovic" alt="dinelaganovic" />
 </p>
 
